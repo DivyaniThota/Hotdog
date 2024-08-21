@@ -5,6 +5,7 @@ Hotdog - An app that tells you if something is a hotdog or not, perfect for hotd
 TECHNOLOGIES USED:
 ---
 
+*Swift
 * UIKit
 * CoreML
 * Vision
