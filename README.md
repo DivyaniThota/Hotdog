@@ -2,7 +2,7 @@ ABOUT:
 ---
 Hotdog - An app that tells you if something is a hotdog or not, perfect for hotdog lovers.
 
-FEATURES:
+TECHNOLOGIES USED:
 ---
 
 * UIKit
